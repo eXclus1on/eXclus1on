@@ -13,8 +13,8 @@ Hi there! 👋 I'm passionate about crafting intuitive and impactful user experi
 ## 🛠 Skills  
 - **UI/UX Design**  
 - **Web Development**:  
-  - HTML5, CSS3, JavaScript, React.js  
-  - PHP, Laravel  
+  - HTML5, CSS3, SASS, JavaScript, React.js, Responsive Web Design
+  - MySQL Database, PHP, Laravel, Creating REST APIs, MongoDB + NodeJS + ExpressJS
 - **Other Tools**: Figma, Adobe Creative Suite  
 
 ## 📚 Education  
